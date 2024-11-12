@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Dobariya</h1>
 <h3 align="center">A passionate in Web-Development</h3>
-<img align = "right" alt = "coding" width = "400px" src = "https://www.bing.com/ck/a?!&&p=84d1cdf41ddbec9345a56b8c515a864c866b588cdf83c74359ecce64be257567JmltdHM9MTczMTI4MzIwMA&ptn=3&ver=2&hsh=4&fclid=101d4d0d-cf24-620c-287c-582bce96637c&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCUyMGNvZGluZyUyMGdpZiZGT1JNPUlRRlJCQSZpZD0xQUY1QjQ2MjdFODNBNkQxOTAzQ0ZFQzI1RkNCNTVFRThDQUM3RDA0&ntb=1">
+<img align = "right" alt = "coding" width = "400px" src = "https://th.bing.com/th?id=OIP.wNGxHlTCsH9zU90WDouoDQHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-dobariya&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-dobariya" /> </p>
 
