@@ -19,5 +19,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-dobariya&show_icons=true&locale=en" alt="ayush-dobariya" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dobariya&" alt="ayush-dobariya" /></p>
